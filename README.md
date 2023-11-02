@@ -7,3 +7,4 @@
 - List Item 2
 - List item 3
 
+You can check out my [projects](./projects.md)
