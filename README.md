@@ -1,5 +1,3 @@
-# John T. Murray
-
 ![](images/j_murray.jpg)
 
 Dr. John T. Murray is an Assistant Professor of Games and Interactive Media department at the University of Central Florida, USA. He received his Ph.D. from the University of California, Santa Cruz in 2018. He is co-author of Flash: Building the Interactive Web (MIT Press, 2014) with Anastasia Salter and Adventure Games: Playing the Outsider (Bloomsbury, 2020) with Aaron Reed and Anastasia Salter.
